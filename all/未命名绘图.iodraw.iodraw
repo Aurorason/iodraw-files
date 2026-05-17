@@ -40,7 +40,7 @@
           <mxGeometry x="580" y="145" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-7" value="弱学习器1&#xa;基于学习的误差率1&#xa;更新学习器权重1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="860" y="120" width="196" height="84" as="geometry" />
+          <mxGeometry x="860" y="150" width="150" height="54" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-8" value="带权重2的训练集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="580" y="239" width="180" height="48" as="geometry" />
