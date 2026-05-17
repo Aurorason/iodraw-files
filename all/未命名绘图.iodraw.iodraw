@@ -51,7 +51,7 @@
           <mxGeometry x="839" y="142" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-8" value="带权重2的训练集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="579" y="239" width="180" height="48" as="geometry" />
+          <mxGeometry x="540" y="239" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CdF9T0eo7HCoi3PHg16B-9" target="CdF9T0eo7HCoi3PHg16B-5">
           <mxGeometry relative="1" as="geometry">
@@ -72,7 +72,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-10" value="带权重n的训练集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="579" y="342" width="181" height="48" as="geometry" />
+          <mxGeometry x="538" y="342" width="181" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-11" value="弱学习器n&#xa;基于学习的误差率n&#xa;更新学习器权重n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="841" y="338" width="121" height="56" as="geometry" />
