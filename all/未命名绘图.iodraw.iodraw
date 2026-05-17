@@ -111,7 +111,7 @@
           <mxGeometry x="740" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-52" value="根据权重1更新样本权重2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="446" y="209" width="160" height="30" as="geometry" />
+          <mxGeometry x="436" y="287" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
