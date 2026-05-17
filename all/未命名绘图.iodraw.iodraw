@@ -104,8 +104,11 @@
         <mxCell id="CdF9T0eo7HCoi3PHg16B-49" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CdF9T0eo7HCoi3PHg16B-50" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="198" width="50" height="30" as="geometry" />
+        <mxCell id="CdF9T0eo7HCoi3PHg16B-50" value="根据权重1更新样本权重2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="198" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdF9T0eo7HCoi3PHg16B-51" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
