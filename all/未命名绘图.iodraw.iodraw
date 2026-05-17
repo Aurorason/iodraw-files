@@ -53,20 +53,20 @@
         <mxCell id="CdF9T0eo7HCoi3PHg16B-8" value="带权重2的训练集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="239" width="180" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="CdF9T0eo7HCoi3PHg16B-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="CdF9T0eo7HCoi3PHg16B-5">
+        <mxCell id="CdF9T0eo7HCoi3PHg16B-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="332.47" as="targetPoint" />
-            <mxPoint x="778" y="252.99941176470588" as="sourcePoint" />
+            <mxPoint x="450.0588235294117" y="349" as="targetPoint" />
+            <mxPoint x="778" y="259.9994117647059" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="819" y="253" />
-              <mxPoint x="819" y="310" />
-              <mxPoint x="450" y="310" />
+              <mxPoint x="819" y="260" />
+              <mxPoint x="819" y="317" />
+              <mxPoint x="450" y="317" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-53" value="相同方式更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CdF9T0eo7HCoi3PHg16B-44">
           <mxGeometry x="-0.6319" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CdF9T0eo7HCoi3PHg16B-9" target="CdF9T0eo7HCoi3PHg16B-12">
