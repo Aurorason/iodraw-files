@@ -74,14 +74,14 @@
         <mxCell id="CdF9T0eo7HCoi3PHg16B-10" value="带权重n的训练集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="579" y="342" width="181" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="CdF9T0eo7HCoi3PHg16B-11" value="1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="841" y="339" width="121" height="56" as="geometry" />
+        <mxCell id="CdF9T0eo7HCoi3PHg16B-11" value="弱学习器n&#xa;基于学习的误差率n&#xa;更新学习器权重n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="841" y="338" width="121" height="56" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CdF9T0eo7HCoi3PHg16B-12" target="CdF9T0eo7HCoi3PHg16B-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-12" value="结合策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="238.5" width="124" height="48" as="geometry" />
+          <mxGeometry x="1049" y="238.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-13" value="强学习器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1230" y="238.5" width="124" height="48" as="geometry" />
