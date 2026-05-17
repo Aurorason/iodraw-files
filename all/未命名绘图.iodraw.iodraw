@@ -66,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-9" value="弱学习器2&#xa;基于学习的误差率2&#xa;更新学习器权重2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="839" y="235" width="120" height="55" as="geometry" />
+          <mxGeometry x="759" y="235" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CdF9T0eo7HCoi3PHg16B-10" target="CdF9T0eo7HCoi3PHg16B-11">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry x="538" y="342" width="181" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-11" value="弱学习器n&#xa;基于学习的误差率n&#xa;更新学习器权重n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="841" y="338" width="121" height="56" as="geometry" />
+          <mxGeometry x="840" y="338" width="121" height="56" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CdF9T0eo7HCoi3PHg16B-12" target="CdF9T0eo7HCoi3PHg16B-13">
           <mxGeometry relative="1" as="geometry" />
