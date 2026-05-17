@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CdF9T0eo7HCoi3PHg16B-2" value="训练数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="124" height="48" as="geometry" />
+          <mxGeometry x="170" y="239" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-3" value="模型1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="152" width="100" height="48" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="859" y="314" width="197" height="84" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-12" value="结合策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="239" width="124" height="48" as="geometry" />
+          <mxGeometry x="1179" y="239" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-13" value="强学习器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="221" width="124" height="48" as="geometry" />
+          <mxGeometry x="1380" y="239" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-18" value="训练" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="CdF9T0eo7HCoi3PHg16B-6" target="CdF9T0eo7HCoi3PHg16B-7">
           <mxGeometry relative="1" as="geometry">
@@ -46,11 +46,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-20" value="训练" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="CdF9T0eo7HCoi3PHg16B-8" target="CdF9T0eo7HCoi3PHg16B-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CdF9T0eo7HCoi3PHg16B-28" value="形成" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="CdF9T0eo7HCoi3PHg16B-12" target="CdF9T0eo7HCoi3PHg16B-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
