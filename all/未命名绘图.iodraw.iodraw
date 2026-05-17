@@ -50,15 +50,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CdF9T0eo7HCoi3PHg16B-15" value="传入" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.15;entryY=1;rounded=0;" edge="1" parent="1" source="CdF9T0eo7HCoi3PHg16B-2" target="CdF9T0eo7HCoi3PHg16B-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="187" y="357" />
-              <mxPoint x="310" y="238" />
-              <mxPoint x="452" y="357" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-16" value="传入" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1.02;entryX=0;entryY=0.6;rounded=0;" edge="1" parent="1" source="CdF9T0eo7HCoi3PHg16B-2" target="CdF9T0eo7HCoi3PHg16B-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
