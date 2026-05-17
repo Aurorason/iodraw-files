@@ -11,10 +11,10 @@
           <mxGeometry x="80" y="200" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-3" value="模型1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="58" width="100" height="48" as="geometry" />
+          <mxGeometry x="240" y="70" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-4" value="模型2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="574" y="217" width="100" height="48" as="geometry" />
+          <mxGeometry x="240" y="210" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-5" value="模型n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="966" y="397" width="101" height="48" as="geometry" />
