@@ -32,7 +32,7 @@
           <mxGeometry x="1217" y="174" width="196" height="84" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-10" value="带权重n的训练集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="397" width="181" height="48" as="geometry" />
+          <mxGeometry x="579" y="314" width="181" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CdF9T0eo7HCoi3PHg16B-11" value="弱学习器n&#xa;基于学习的误差率n&#xa;更新学习器权重n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1599" y="243" width="197" height="84" as="geometry" />
